@@ -6,7 +6,7 @@
 
 -- norvig spell checker
 
--- build an inverted index of the documents in the corpus using tf-idf weights and process the queries with Boolean Model and Vector Model
+-- built an inverted index of the documents in the corpus using tf-idf weights and process the queries with Boolean Model and Vector Model
 
 -- BooleanModel-used AND(Intersection) for Query processing
 
