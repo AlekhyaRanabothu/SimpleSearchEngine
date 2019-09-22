@@ -1,8 +1,8 @@
-# simplesearchengine
+# SimpleSearchEngine
 
 Built a search engine for Cranfield dataset
 
-tokenize the corpus,remove stopwords,PorterStemmer for stemming
+tokenize the corpus, remove stopwords, PorterStemmer for stemming
 
 norvig spell checker
 
