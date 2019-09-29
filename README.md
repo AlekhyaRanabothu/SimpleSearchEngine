@@ -15,6 +15,7 @@
 -- evaluation of boolean and vector model using ndcg score,t-test and wilcoxon test
 
 ************************************************************************************************************
+# Project flow and Additional details
 
 •	The goal of this project is to build a basic search engine which gives out the documents from the corpus, that are related to the search queries.
 
